@@ -44,7 +44,7 @@ limitations under the License.
 <!-- eslint-disable id-length -->
 
 ```javascript
-import FLOAT32_NUM_SIGNIFICAND_BITS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-num-significand-bits@deno/mod.js';
+import FLOAT32_NUM_SIGNIFICAND_BITS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-num-significand-bits@v0.1.0-deno/mod.js';
 ```
 
 #### FLOAT32_NUM_SIGNIFICAND_BITS
@@ -71,7 +71,7 @@ var bool = ( FLOAT32_NUM_SIGNIFICAND_BITS === 23 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import FLOAT32_NUM_SIGNIFICAND_BITS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-num-significand-bits@deno/mod.js';
+import FLOAT32_NUM_SIGNIFICAND_BITS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-num-significand-bits@v0.1.0-deno/mod.js';
 
 console.log( FLOAT32_NUM_SIGNIFICAND_BITS );
 // => 23
