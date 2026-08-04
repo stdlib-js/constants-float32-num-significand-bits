@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-09)
+## Unreleased (2026-08-04)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`ab689bf`](https://github.com/stdlib-js/stdlib/commit/ab689bf12a998b539382b89f7e5d8acd81d81d0f) - **docs:** add asm type annotation [(#13905)](https://github.com/stdlib-js/stdlib/pull/13905) _(by Philipp Burckhardt)_
 -   [`e7f93b6`](https://github.com/stdlib-js/stdlib/commit/e7f93b6d4af09ad035409619bd4c3e97b8a0800f) - **chore:** correct float64 keyword leftovers in `@stdlib/constants-float32` packages [(#11964)](https://github.com/stdlib-js/stdlib/pull/11964) _(by Philipp Burckhardt)_
 
 </details>
